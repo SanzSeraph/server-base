@@ -1,0 +1,11 @@
+{
+  "name": "server-base",
+  "version": "1.0.0",
+  "description": "A foundation repository for NodeJS servers written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Arant",
+  "license": "ISC"
+}
