@@ -2,14 +2,14 @@
   "compilerOptions": {
     "target": "ES6",
     "alwaysStrict": true,
-    "lib": ["ES6", "ScriptHost"],
     "listFiles": true,
     "listEmittedFiles": true,
     "noEmitOnError": true,
     "noErrorTruncation": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true
+    "noUnusedParameters": true,
+    "outDir": "dist"
   },
   "include": [
     "src/**/*"
